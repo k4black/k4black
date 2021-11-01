@@ -20,7 +20,7 @@
 | Other | [![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white)]() [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white)]()  |
 
 
----
+<!-- ---
 
 ### 🖥️ Major Projects
 
@@ -29,7 +29,7 @@
 | 2021 | [Dataflow pipelines inference framework]() | [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]() [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI&logoColor=white)]() |
 | 2019 | [Kaggle pipelines lib]() | [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]() [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)]() [![Sklearn Badge](https://img.shields.io/badge/-Sklearn-black?style=flat&logo=scikit-learn&logoColor=white)]() |
 | 2018 | [iHSE: app for summer educational camp]() | [![Flask Badge](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask&logoColor=white)]() [![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5&logoColor=white)]() |
-| 2016 | [Wierd story: android puzzle game]() | [![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]() [![Java Badge](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=white)]() |
+| 2016 | [Wierd story: android puzzle game]() | [![Java Badge](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=white)]() [![Java Badge](https://img.shields.io/badge/-Android-black?style=flat&logo=Android&logoColor=white)]() | -->
 
 
 ---
