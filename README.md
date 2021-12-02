@@ -4,7 +4,7 @@
 - 📄 **Master degree program in Data Science** at the Higher School of Economics, Russia
 - 💻 Interested in deep learning, backend development, dl-models inference, project management
 - 🗺️ Located at Nizhny Novgorod, Russia
-- 📝 CV/Resume TODO
+- 📝 [CV/Resume](TODO)
 
 ---
 
