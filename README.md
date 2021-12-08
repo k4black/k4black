@@ -1,7 +1,7 @@
 # Hi, I'm Kostya 👋
 
 - 👨‍💼 Software Dev in R&D at gorky.ai
-- 📄 **Master degree program in Data Science** at the Higher School of Economics, Russia
+- 📄 **'Data Science' Master degree student** at the Higher School of Economics, Russia
 - 💻 Interested in deep learning, backend development, dl-models inference, project management
 - 🗺️ Located at Nizhny Novgorod, Russia
 - 📝 [CV/Resume](TODO)
