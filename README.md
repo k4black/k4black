@@ -2,7 +2,7 @@
 
 - 👨‍💼 Developer and Project Manager in R&D department at gorky.ai
 - 📄 **'Data Science' Master degree student** at the Higher School of Economics, Russia
-- 💻 Interested in deep learning, backend development, dl-models inference, project management
+- 💻 Interested in deep learning (NLP + speech processing), backend development, dl-models inference, project management
 - 🗺️ Located at Nizhny Novgorod, Russia
 <!-- - 📝 [CV/Resume](https://github.com/k4black/k4black/blob/master/CV.pdf) -->
 
