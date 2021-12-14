@@ -11,7 +11,7 @@
 ### 🛠️ Familiar Technologies
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-| What | Stack |
+| Topic | Stack |
 | ---- | --- | 
 | Programmin languages | [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white)]() [![Cpp Badge](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=c%2B%2B&logoColor=white)]() [![HTML5 Badge](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5&logoColor=white)]() |
 | Frameworks and libs | [![Torch Badge](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=PyTorch&logoColor=white)]() [![Lightning Badge](https://img.shields.io/badge/-PyTorch%20Lightning-black?style=flat&logo=PyTorch-Lightning&logoColor=white)]() [![Hugginface Badge](https://img.shields.io/badge/-Huggingface-black?style=flat&logo=Huggingface&logoColor=white)]() [![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white)]() [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)]() [![Sklearn Badge](https://img.shields.io/badge/-Sklearn-black?style=flat&logo=scikit-learn&logoColor=white)]() [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white)]() [![Flask Badge](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask&logoColor=white)]() [![FastAPI Badge](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=FastAPI&logoColor=white)]() |
