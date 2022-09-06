@@ -1,10 +1,10 @@
 # Hi, I'm Kostya 👋
 
-- 💼 Data Science at EPAM
+<!-- - 💼 Data Science at EPAM -->
 - 👨‍🏫 Lecturer and Python Course manager at the Yandex School of Data Analysis
-- 📄 **'Data Science' Master degree student** at the Higher School of Economics, Russia
-- 💻 Interested in Machine Learning (especially NLP and Speech Processing), backend development, DL-models Inference, Project Management
-<!-- - 🗺️ Located at Nizhny Novgorod, Russia -->
+- 📄 **'Language & Communication Technologies' Erasmus Mundus student** at the University of Groningen and Saarland University
+- 💻 Interested in Machine Learning (especially NLP and SP), backend development, DL-models Inference, Project Management
+- 🗺️ Located at Groningen, Netherlands
 <!-- - 📝 [CV/Resume](https://github.com/k4black/k4black/blob/master/CV.pdf) -->
 
 ---
