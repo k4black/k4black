@@ -1,8 +1,8 @@
-# Hi, I'm Kostya 👋
+# Hi, I'm Konstantin 👋
 
 <!-- - 💼 Data Science at EPAM -->
-- 👨‍🏫 Lecturer and Python Course manager at the Yandex School of Data Analysis
-- 📄 **'Language & Communication Technologies' Erasmus Mundus student** at the University of Groningen and Saarland University
+- 👨‍🏫 Lecturer and Python Course manager at the [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/)
+- 📄 **['Language & Communication Technologies'](https://lct-master.org/) Erasmus Mundus student** at the University of Groningen and Saarland University
 - 💻 Interested in NLP and SP, as well as in backend development, DL-models Inference, Project Management
 - 🗺️ Located at Groningen, Netherlands
 - 📝 More: [linkedin.com/in/kdchernyshev](https://www.linkedin.com/in/kdchernyshev/) or [CV file](https://github.com/k4black/k4black/blob/main/Chernyshev_CV_anonimized.pdf)
