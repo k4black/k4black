@@ -5,7 +5,7 @@
 - 📄 **'Language & Communication Technologies' Erasmus Mundus student** at the University of Groningen and Saarland University
 - 💻 Interested in NLP and SP, as well as in backend development, DL-models Inference, Project Management
 - 🗺️ Located at Groningen, Netherlands
-- 📝 More: [linkedin.com/in/kdchernyshev](https://www.linkedin.com/in/kdchernyshev/) or [CV file](https://github.com/k4black/k4black/blob/main/CV_jan_2023.pdf)
+- 📝 More: [linkedin.com/in/kdchernyshev](https://www.linkedin.com/in/kdchernyshev/) or [CV file](https://github.com/k4black/k4black/blob/main/Chernyshev_CV_anonimized.pdf)
 
 ---
 
