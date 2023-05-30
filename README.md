@@ -29,13 +29,18 @@
 #### Personal
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Project 1](URL to the project) | Brief description of the project | ![tag1 badge](https://img.shields.io/static/v1?label=&message=tag1&style=flat&logo=&color=b3e0ff&logoColor=white) ![tag2 badge](https://img.shields.io/static/v1?label=&message=tag2&style=flat&logo=&color=b3e0ff&logoColor=white) |
+| [auto-profile](https://github.com/k4black/auto-profile) (2023)| Small project to auto generate github profile, personal website and latex cv using single yaml file; | ![python badge](https://img.shields.io/static/v1?label=&message=python&style=flat&logo=&color=f3f3ff&logoColor=white) ![latex badge](https://img.shields.io/static/v1?label=&message=latex&style=flat&logo=&color=f3f3ff&logoColor=white) ![github-actions badge](https://img.shields.io/static/v1?label=&message=github-actions&style=flat&logo=&color=f3f3ff&logoColor=white) ![tba badge](https://img.shields.io/static/v1?label=&message=tba&style=flat&logo=&color=f3f3ff&logoColor=white) |
+
+#### Open Source
+| Project | Description | Stack |
+| --- | --- | --- |
+| [fastapi-jwt](https://github.com/k4black/fastapi-jwt) (2021)| FastAPI-native extension for JWT Auth; | ![jwt badge](https://img.shields.io/static/v1?label=&message=jwt&style=flat&logo=&color=f3f3ff&logoColor=white) ![python badge](https://img.shields.io/static/v1?label=&message=python&style=flat&logo=&color=f3f3ff&logoColor=white) ![fastapi badge](https://img.shields.io/static/v1?label=&message=fastapi&style=flat&logo=&color=f3f3ff&logoColor=white) ![pytest badge](https://img.shields.io/static/v1?label=&message=pytest&style=flat&logo=&color=f3f3ff&logoColor=white) |
+| [Manytask](https://github.com/yandexdataschool/manytask) (2022)| Auto assignments testing system for YSDA; | ![testing badge](https://img.shields.io/static/v1?label=&message=testing&style=flat&logo=&color=f3f3ff&logoColor=white) ![python badge](https://img.shields.io/static/v1?label=&message=python&style=flat&logo=&color=f3f3ff&logoColor=white) ![flask badge](https://img.shields.io/static/v1?label=&message=flask&style=flat&logo=&color=f3f3ff&logoColor=white) ![pytest badge](https://img.shields.io/static/v1?label=&message=pytest&style=flat&logo=&color=f3f3ff&logoColor=white) |
+
 #### Educational
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Project 1](URL to the project) | Brief description of the project | ![tag1 badge](https://img.shields.io/static/v1?label=&message=tag1&style=flat&logo=&color=b3e0ff&logoColor=white) ![tag2 badge](https://img.shields.io/static/v1?label=&message=tag2&style=flat&logo=&color=b3e0ff&logoColor=white) |
-| [Project 2](URL to the project) | Brief description of the project | ![tag1 badge](https://img.shields.io/static/v1?label=&message=tag1&style=flat&logo=&color=b3e0ff&logoColor=white) ![arf badge](https://img.shields.io/static/v1?label=&message=arf&style=flat&logo=&color=b3e0ff&logoColor=white) |
-| [Project 2](URL to the project) | Brief other of the project | ![tttt badge](https://img.shields.io/static/v1?label=&message=tttt&style=flat&logo=&color=b3e0ff&logoColor=white) ![tag6 badge](https://img.shields.io/static/v1?label=&message=tag6&style=flat&logo=&color=b3e0ff&logoColor=white) |
+| [EDOS 2023](https://github.com/lct-rug-2022/edos-2023) (2023)| Public repository for the EDOS 2023 submission by LCT-1 team utilising multitasking approach; | ![transformers badge](https://img.shields.io/static/v1?label=&message=transformers&style=flat&logo=&color=f3f3ff&logoColor=white) ![machamp badge](https://img.shields.io/static/v1?label=&message=machamp&style=flat&logo=&color=f3f3ff&logoColor=white) ![multitasking badge](https://img.shields.io/static/v1?label=&message=multitasking&style=flat&logo=&color=f3f3ff&logoColor=white) ![python badge](https://img.shields.io/static/v1?label=&message=python&style=flat&logo=&color=f3f3ff&logoColor=white) ![dvc badge](https://img.shields.io/static/v1?label=&message=dvc&style=flat&logo=&color=f3f3ff&logoColor=white) |
 
 ---
 
