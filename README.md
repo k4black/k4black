@@ -1,11 +1,5 @@
 # Hi, I'm Konstantin 👋
 
-[![Linkedin badge](https://img.shields.io/static/v1?label=&message=Linkedin&style=flat&logo=linkedin&color=0A66C2&logoColor=white)](linkedin.com/in/kdchernyshev)
-[![Github badge](https://img.shields.io/static/v1?label=&message=Github&style=flat&logo=github&color=181717&logoColor=white)](github.com/k4black)
-[![Website badge](https://img.shields.io/static/v1?label=&message=Website&style=flat&logo=googlechrome&color=FF9900&logoColor=white)](k4black.github.io)
-![Groningen, Netherlands badge](https://img.shields.io/static/v1?label=&message=Groningen%2C%20Netherlands&style=flat&logo=googlemaps&color=34A853&logoColor=white)
----
-
 - 💼 NLP Intern at [Jetbrains Research](https://www.jetbrains.com/research/);
 - 👨‍🏫 Lecturer and Python Course manager at the [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/);
 - 📄 **['Language & Communication Technologies'](https://lct-master.org/) Erasmus Mundus student** at the University of Groningen and Saarland University;
