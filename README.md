@@ -34,6 +34,8 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [Project 1](URL to the project) | Brief description of the project | ![tag1 badge](https://img.shields.io/static/v1?label=&message=tag1&style=flat&logo=&color=b3e0ff&logoColor=white) ![tag2 badge](https://img.shields.io/static/v1?label=&message=tag2&style=flat&logo=&color=b3e0ff&logoColor=white) |
+| [Project 2](URL to the project) | Brief description of the project | ![tag1 badge](https://img.shields.io/static/v1?label=&message=tag1&style=flat&logo=&color=b3e0ff&logoColor=white) ![arf badge](https://img.shields.io/static/v1?label=&message=arf&style=flat&logo=&color=b3e0ff&logoColor=white) |
+| [Project 2](URL to the project) | Brief other of the project | ![tttt badge](https://img.shields.io/static/v1?label=&message=tttt&style=flat&logo=&color=b3e0ff&logoColor=white) ![tag6 badge](https://img.shields.io/static/v1?label=&message=tag6&style=flat&logo=&color=b3e0ff&logoColor=white) |
 
 ---
 
